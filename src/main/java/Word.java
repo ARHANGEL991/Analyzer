@@ -1,8 +1,8 @@
 
-public class Word
+public class Word //слово
 {
     private String word=new String();
-    private int count;
+    private int count; //количество повторений
 
 
     public Word(String word)
